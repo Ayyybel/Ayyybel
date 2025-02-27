@@ -270,6 +270,7 @@ td {
 	vertical-align: middle;
 	width: 10%;
 	transition: width 0.5s, height 0.5s, transform 0.5s;
+	transition-delay: 0.3s;
 	border-radius: 50px;
 }
 td:hover {
