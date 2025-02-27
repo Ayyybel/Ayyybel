@@ -268,15 +268,13 @@ td {
 	padding: 4px;
 	text-align: center;
 	vertical-align: middle;
+	width: 10%;
 	transition: width 0.5s, height 0.5s, transform 0.5s;
-	transition-delay: 1s;
 	border-radius: 50px;
 }
 td:hover {
 	width:70%;
-}
-img#portfolio {
-	
+	transition: width 0.5s, height 0.5s, transform 0.5s;
 }
 /*media rules*/
 @media only screen and (max-width:69em) {
