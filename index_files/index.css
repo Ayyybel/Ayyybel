@@ -251,6 +251,27 @@ path.hair{
 .phoneHoverFix{
     pointer-events: all;
 }
+a:hover {
+		color: #d65d03;               /**/
+	}
+h1 {
+		color: #fb4934;               /**/
+	}
+h2 {
+		color: #b8bb26;               /**/
+	}
+h3 {
+		color: #fabd2f;               /**/
+	}
+h4 {
+		color: #83a598;               /**/
+	}
+h5 {
+		color: #d3869b;               /**/
+	}
+h6 {
+		color: #83c07c;               /**/
+	}
 /*media rules*/
 @media only screen and (max-width:69em) {
     body{
@@ -275,8 +296,12 @@ path.hair{
         pointer-events: none;
     }
     a{
-        pointer-events: all;
+		pointer-events: all;
+		color: #83a598;  
     }
+	a:hover {
+		color: #d65d03;        
+	}
     #topLine{
         display: none;
     }
@@ -311,7 +336,6 @@ path.hair{
     .hoverTar #arrow{
         opacity: 0;
     }
-}
 @media (prefers-reduced-motion: reduce) {
     .hoverTar:hover{
         animation: 0s !important;}
