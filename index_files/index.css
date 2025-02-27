@@ -188,7 +188,7 @@ div#clockBox{
     bottom: 0;
     left: 0;
     width: 100vw;
-    height: 11.5em;
+    height: 10em;
     background: rgb(255,250,240);
     background: linear-gradient(0deg, var(--bgcolor) 0%, var(--bgcolor) 80%, var(--bgalpha) 100%);
 }
@@ -221,7 +221,7 @@ span#clock{
     color: var(--txcolor);
     font-size: 16px;
     font-weight: 500;
-    margin-top:25px;
+    margin-top:5px;
     margin-bottom:-20px;
     line-height: 140%;
 }
@@ -236,18 +236,6 @@ svg{
 }
 path.matchText{
     fill: var(--txcolor);
-}
-path.skin{
-    fill: var(--skin);
-}
-path.hair{
-    fill: var(--hair);
-}
-#sun{
-    fill: var(--sun);
-}
-#moon{
-    fill: var(--moon);
 }
 .phoneHoverFix{
     pointer-events: all;
@@ -273,6 +261,23 @@ h5 {
 h6 {
 		color: #83c07c;               /**/
 	}
+table {
+	width: 90%;
+}
+td {
+	padding: 4px;
+	text-align: center;
+	vertical-align: middle;
+	transition: width 0.5s, height 0.5s, transform 0.5s;
+	transition-delay: 1s;
+	border-radius: 50px;
+}
+td:hover {
+	width:70%;
+}
+img#portfolio {
+	
+}
 /*media rules*/
 @media only screen and (max-width:69em) {
     body{
