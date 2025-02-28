@@ -23,10 +23,11 @@ p{
 }
 #container{
     width: auto;
-    min-width: 40em;
+    min-width: 5em;
     padding: 3em;
     position: relative;
-
+	overflow: scroll;
+	word-wrap: break-word;
 }
 #topLine{
     border-top: var(--border) solid var(--txcolor);
@@ -262,23 +263,6 @@ h5 {
 h6 {
 		color: #83c07c;               /**/
 	}
-table {
-	width: 90%;
-}
-td {
-	padding: 0px;
-	text-align: center;
-	vertical-align: middle;
-	width: 10%;
-	transition: width 0.5s, height 0.5s, transform 0.5s;
-	transition-delay: 0.3s;
-	border: 0px;
-}
-td:hover {
-	width:70%;
-	transition: width 0.5s, height 0.5s, transform 0.5s;
-	transition-delay: 0.25s;
-}
 /*media rules*/
 @media only screen and (max-width:69em) {
     body{
@@ -298,7 +282,7 @@ td:hover {
     }
     .hoverTar,.phoneHoverFix{
         width: 50vw;
-        min-width: 20em;
+        min-width: 10em;
         margin-left: 0;
         pointer-events: none;
     }
@@ -331,10 +315,9 @@ td:hover {
         text-align: center;
     }
     h2{
-        white-space: nowrap;
         pointer-events: none;
         width: 50vw;
-        min-width: 20em;
+        min-width: 10em;
         border-top: 2px solid var(--txcolor);
 		word-wrap: break-word;
     }
