@@ -1,0 +1,42 @@
+div.gallery {
+  border: 0px;
+}
+
+div.gallery:hover {
+  border: 0px;
+}
+
+div.gallery img {
+  width: auto;
+  height: auto;
+  width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 0 2px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 69em) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 69em) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

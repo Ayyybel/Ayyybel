@@ -265,13 +265,13 @@ table {
 	width: 90%;
 }
 td {
-	padding: 4px;
+	padding: 0px;
 	text-align: center;
 	vertical-align: middle;
 	width: 10%;
 	transition: width 0.5s, height 0.5s, transform 0.5s;
 	transition-delay: 0.3s;
-	border-radius: 50px;
+	border: 0px;
 }
 td:hover {
 	width:70%;
