@@ -7,7 +7,6 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: auto;
   height: auto;
   width: 100%;
 }
@@ -19,19 +18,14 @@ div.gallery img {
 .responsive {
   padding: 0 2px;
   float: left;
-  width: 24.99999%;
+    width: 49.999%;
 }
 
 @media only screen and (max-width: 69em) {
   .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
-  }
-}
-
-@media only screen and (max-width: 69em) {
-  .responsive {
-    width: 100%;
+    width: 99%;
+	float:center;
+	margin: 6px 0;
   }
 }
 

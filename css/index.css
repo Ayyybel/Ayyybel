@@ -66,6 +66,7 @@ h2{
     padding-bottom: 0.3em;
     border-top: var(--border) solid var(--txcolor);
     transition: font-weight 0.5s;
+	word-wrap: break-word;
 }
 h2.surtitle{
     font-weight: 700;
@@ -286,7 +287,7 @@ td:hover {
 
     #container{
         grid-template-columns: auto;
-        width: 26em;
+        width: 100%;
         margin-left: 0;
         padding-left: 1em;
         margin-right: 0;
@@ -335,6 +336,7 @@ td:hover {
         width: 50vw;
         min-width: 20em;
         border-top: 2px solid var(--txcolor);
+		word-wrap: break-word;
     }
     #phoneOnly{
         display: inherit;
