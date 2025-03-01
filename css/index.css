@@ -46,6 +46,11 @@ p{
     z-index: 999;
     transition: 0.3s;
 }
+#about{
+	margin-right: 3em;
+	word-break: break-all;
+	hyphens: auto;
+}
 h1{
     font-family: Righteous;
     letter-spacing: -0.02em;
