@@ -129,7 +129,7 @@ p.description{
     color: var(--txcolor);
     font-size: 1.5em;
     line-height: 1.2;
-    width: 19em;
+    width: 10em;
 }
 #link{
     opacity: 100% !important;
@@ -215,6 +215,7 @@ div#clockLine{
     left:2em;
     padding-top: 0.3em;
     border-top: var(--border) solid var(--txcolor);
+	word-wrap: break-word;
 }
 #discord{
     cursor:pointer;
@@ -269,7 +270,7 @@ h6 {
 		color: #83c07c;               /**/
 	}
 /*media rules*/
-@media only screen and (max-width:69em) {
+@media only screen and (max-width:52em) {
     body{
         font-size: 15px;
     }
