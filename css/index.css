@@ -269,6 +269,23 @@ h5 {
 h6 {
 		color: #83c07c;               /**/
 	}
+#gruvbox p {
+	float:left;
+	font-size: 25pt;
+	padding-bottom: 10px;
+	
+}
+#colors p {
+	font-size: 15pt; 
+	padding-bottom: 10px;
+	background-color: #000000;
+}
+#colors {
+
+}
+#fonts p {
+	font-size: 15pt;
+}
 /*media rules*/
 @media only screen and (max-width:52em) {
     body{
