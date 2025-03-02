@@ -57,7 +57,7 @@ h1{
     font-size: 4em;
     width: content;
     letter-spacing: -0.02em;
-    margin-bottom: 1em;
+    margin-bottom: 4px;
     padding-right:0.4em;
 }
 #toggleText{
@@ -365,3 +365,4 @@ h4.now {
     .hoverTar:hover{
         animation: 0s !important;}
 }
+
