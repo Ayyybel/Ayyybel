@@ -21,6 +21,9 @@ body{
 p{
 	color: var(--txcolor);
 }
+#logo {
+	margin-top: .2em;
+}
 #container{
     width: auto;
     min-width: 5em;
@@ -57,7 +60,7 @@ h1{
     font-size: 4em;
     width: content;
     letter-spacing: -0.02em;
-    margin-bottom: 4px;
+    margin-bottom: 0.4em;
     padding-right:0.4em;
 }
 #toggleText{
