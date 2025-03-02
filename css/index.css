@@ -39,7 +39,7 @@ p{
 #falseMargin{
     background-color: var(--bgcolor);
     position: fixed;
-    width: 2.5em;
+    width: 2em;
     right: 0;
     top: 0;
     height: 100%;
@@ -273,17 +273,27 @@ h6 {
 	float:left;
 	font-size: 25pt;
 	padding-bottom: 10px;
-	
+
 }
 #colors p {
 	font-size: 15pt; 
 	padding-bottom: 10px;
-	background-color: #000000;
-}
-#colors {
 
 }
+#colors {
+clear: left;
+}
 #fonts p {
+	font-size: 15pt;
+}
+#main{
+	background-color: #1d2021;
+	padding: 20px;
+}
+h3.now {
+	font-size: 20pt;
+}
+h4.now {
 	font-size: 15pt;
 }
 /*media rules*/
@@ -294,10 +304,10 @@ h6 {
 
     #container{
         grid-template-columns: auto;
-        width: 100%;
+        width: auto;
         margin-left: 0;
         padding-left: 1em;
-        margin-right: 0;
+        margin-right: 5em;
         padding-right: 1em;
     }
     #column,.column{
