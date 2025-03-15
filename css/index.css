@@ -382,7 +382,7 @@ h4.now {
     }
     h2{
         pointer-events: none;
-        width: 50vw;
+        width: 30vw;
         min-width: 10em;
 		word-wrap: break-word;
     }
