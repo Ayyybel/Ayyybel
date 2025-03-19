@@ -60,8 +60,6 @@ p{
 	margin-bottom:8px;
 }
 #fontcolor h2{
-	border-style:none;
-	border-top-style:none;
 }
 h1{
     font-family: Righteous;
@@ -269,7 +267,7 @@ h1 {
 		color: #fb4934;               /**/
 	}
 h2 {
-		color: #b8bb26;               /**/
+		color: #fe8019;               /**/
 	}
 h3 {
 		font-size: 15pt;
