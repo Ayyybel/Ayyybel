@@ -22,9 +22,9 @@ p{
 	color: var(--txcolor);
 }
 #logo {
-	margin-top: .2em;
-	width:60px;
-	height:60px;
+	width:5vw;
+	height:5vw;
+	vertical-align: middle;
 }
 #container{
     width: auto;
@@ -69,9 +69,6 @@ h1{
     letter-spacing: -0.02em;
     margin-bottom: 0.4em;
     padding-right:0.4em;
-}
-#toggleText{
-    display:contents;
 }
 h2{
     font-weight: 400;
@@ -154,7 +151,7 @@ div.hoverTar,div.noHov{
     position: relative;
     display: grid;
     grid-template-columns: 2;
-    width:24em;
+    width:100%;
     /*    transition: width 0.5s;*/
 }
 #skipLine{
@@ -346,10 +343,10 @@ h4.now {
         margin-left: 0;
         pointer-events: none;
     }
-#logo {
-	width:12vw;
-	height:12vw;
-}
+	#logo {
+		width:10vw;
+		height:10vw;
+	}
     a{
 		pointer-events: all;
 		color: #83a598;  
@@ -360,14 +357,16 @@ h4.now {
     #topLine{
         display: none;
     }
-    #toggleText{
-	    font-size: 7vw;
-    }
+
+
+
     #clockBox{
         display: none;
     }
     h1{
-        margin-bottom: 0.4em;
+		width:100%;
+		vertical-align:middle;
+	    font-size: 8vw;
     }
     .infoBox{
         display: none;
@@ -380,10 +379,14 @@ h4.now {
     }
     h2{
         pointer-events: none;
-        width: 30vw;
-        min-width: 10em;
+        width: 100%;
+        min-width: 7em;
 		word-wrap: break-word;
+		margin-right 3em;
     }
+	h2.noHov{
+		
+	}
     #phoneOnly{
         display: inherit;
     }

@@ -1,7 +1,10 @@
 /*inter import*/
 @import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
 @font-face {
-    font-family: Rubik;
-    src: url(Inter-DisplayBold.otf);
+  font-family: hitmepunk;
+  src: url('fonts/hitmepunk.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
