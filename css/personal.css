@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+html{
+    font-family: 'Rubik', sans-serif;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+.body {
+	text-align: center;
+	background-color: #fff;
+	background-image: url("");
+	background-position: 0 0;
+	background-size: cover;
+	background-repeat:repeat;
+}
+
+#head {
+	display:grid;
+	column-gap: 20px;
+	grid-template-columns: auto auto auto;
+	grid-template-rows: auto auto 10px;
+	row-gap: 10px;
+	background-color: #49494980;
+	margin-right:10vw;
+	margin-left: 10vw;
+}
+
+.gnome{
+	width:30px;
+}
+
+.head-cell {
+
+}
+
+#main{
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	grid-template-rows: 5px auto 20px auto 10px;
+	column-gap: 10px;
+	row-gap: 10px;
+	margin-right:10px;
+	margin-left:10px;
+	grid-template-rows: 60px;
+	background-color: #49494980;
+}
+
+.main-cell{
+	
+}
+
+#social{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+.icons{
+    width: 2em;
+    height: 2em;
+}
