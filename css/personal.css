@@ -18,26 +18,33 @@ html{
 
 #head {
 	display:grid;
-	column-gap: 20px;
+	column-gap: 5px;
 	grid-template-columns: auto auto auto;
 	grid-template-rows: 10px auto auto auto;
 	row-gap: 10px;
 	background-color: var(--bgcolor);
 	margin-right:10vw;
 	margin-left: 10vw;
+	margin-bottom: 20px;
+	padding-right: 3vw;
+	padding-left: 3vw;
+	padding-bottom: 10px;
 	color: #FF0000;
+	box-shadow: 0 0 10px 12px var(--bgcolor);
 }
 
 .gnome{
-	width:2vw;
-	display:inline;
+	width:4vw;
 }
 .title-cell{
 	font-family: PressStart2P;
 	font-size:1.5vw;
 }
 .head-cell {
-	font-size:15pt;
+	font-size:12pt;
+	display:flex;
+	justify-content: center;
+	align-items: center;
 }
 
 #main{
@@ -51,7 +58,9 @@ html{
 	grid-template-rows: 60px;
 	background-color: var(--bgcolor);
 }
-
+.buttons {
+	width: 100%;
+}
 .main-cell a{
 	color:blue;
 }
@@ -62,8 +71,22 @@ html{
 	justify-content: space-evenly;
 	box-shadow: 0 0 5px 6px blue;
 	padding: 15px;
+	margin: auto;
 }
 .icons{
-    width: 2vw;
-    height: 2vw;
+    width: 30px;
+}
+
+/*mobile*/
+@media only screen and (max-width:600px) {
+	.title-cell{
+		font-family: PressStart2P;
+		font-size:3vw;
+	}
+	.body {
+		background-image: url("../assets/skull.png");
+	}
+	#social {
+		
+	}
 }
