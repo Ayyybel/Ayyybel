@@ -9,6 +9,7 @@ html{
     overflow-y: auto;
     scroll-behavior: smooth;
 }
+
 .body {
 	text-align: center;
 	background-color: #fff;
@@ -37,10 +38,12 @@ html{
 .gnome{
 	width:4vw;
 }
+
 .title-cell{
 	font-family: PressStart2P;
 	font-size:1.5vw;
 }
+
 .head-cell {
 	font-size:12pt;
 	display:flex;
@@ -85,6 +88,7 @@ html{
 	padding: 15px;
 	margin: auto;
 }
+
 .icons{
     width: 30px;
 }
