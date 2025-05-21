@@ -204,7 +204,7 @@ div#clockBox{
     bottom: 0;
     left: 0;
     width: 100vw;
-    height: 10em;
+    height: 6.5em;
     background: rgb(255,250,240);
     background: linear-gradient(0deg, var(--bgcolor) 0%, var(--bgcolor) 80%, var(--bgalpha) 100%);
 }
@@ -239,7 +239,7 @@ span#clock{
     font-size: 16px;
     font-weight: 500;
     margin-top:5px;
-    margin-bottom:-20px;
+    margin-bottom:-40px;
     line-height: 140%;
 }
 svg#head{
