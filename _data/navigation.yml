@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Now"
+    url: /now/
+  - title: "Blog"
+    url: /blog/
+  - title: "Favs"
+    url: /favs/
+  - title: "Art"
+    url: /art/
