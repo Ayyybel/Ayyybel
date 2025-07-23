@@ -29,7 +29,10 @@ repository: "ayyybel/ayyybel"
 github_username:  Ayyybel
 minimal_mistakes_skin: "dark" 
 logo: "/assets/images/logo.png"
-
+analytics:
+  provider: "custom"
+  
+  
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.27.2"
