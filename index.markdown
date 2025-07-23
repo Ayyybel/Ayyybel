@@ -4,3 +4,4 @@
 
 layout: home
 ---
+Hi there, and welcome to my site.
