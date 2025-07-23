@@ -22,7 +22,7 @@ title: Ayyybel's Site
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     my site where I write stuff sometimes.
-baseurl: "/ayyybel" # the subpath of your site, e.g. /blog
+baseurl: " # the subpath of your site, e.g. /blog
 url: "https://ayyybel.party"
 repository: "ayyybel/ayyybel"
 #twitter_username: jekyllrb
