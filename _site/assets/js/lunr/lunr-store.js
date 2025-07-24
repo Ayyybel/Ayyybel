@@ -1,6 +1,6 @@
 var store = [{
         "title": "Test",
-        "excerpt":"hmmm  ","categories": [],
+        "excerpt":"hmmm weird  ","categories": [],
         "tags": [],
         "url": "/test/",
         "teaser": null
@@ -10,4 +10,10 @@ var store = [{
         "tags": ["update"],
         "url": "/jekyll/welcome/",
         "teaser": "/assets/images/500x300.png"
+      },{
+        "title": "cyber skeleton render",
+        "excerpt":"  ","categories": [],
+        "tags": ["3d","art"],
+        "url": "/skeleton/",
+        "teaser": null
       }]
