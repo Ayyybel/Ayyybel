@@ -7,3 +7,4 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}.scss"; // skin
 @import "minimal-mistakes.scss"; // main partials
+@import "gallery.scss";

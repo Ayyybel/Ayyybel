@@ -1,4 +1,5 @@
 ---
 permalink: /art/
 ---
-a portfolio of my posters and 3d art projects
+My posters, art projects, and 3d renders
+{% include gallery.html folder="images" %}
