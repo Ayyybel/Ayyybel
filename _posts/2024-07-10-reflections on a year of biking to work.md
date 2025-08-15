@@ -11,5 +11,3 @@ A late freeze in January with temperatures in the teens and a thin layer of ice 
 Getting passed by a full racing peloton on my casual ride to work, and completely gassing myself to almost keep up for a few minutes.
 
 None of these experiences were advisable, but they were all fulfilling, enjoyable, and mine.
-
-#Creation/articles
