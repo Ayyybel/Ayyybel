@@ -14,4 +14,4 @@ Write for an audience
 ## Rule 3
 
 This blog does not have a topic, but it is strictly non-professional.  
-	This is a blog about my interests, not a job application or any kind of pitch for employment. This blog is divorced from capital and it's acquisition outside of itself. If I get a readership, I may monetize it for what it is, but it won't be used to get me other jobs. The reasoning behind this rule is to address a conundrum I've had with this website, deciding whether it is personal or professional. Through this rule, I am making this blog and this site a place for me to express myself, devoid of the need to make money or cater to anyone.
+	This is a blog about my interests, not a job application or any kind of pitch for employment. The reasoning behind this rule is to address a conundrum I've had with this website, deciding whether it is personal or professional. Through this rule, I am making this blog and this site a place for me to express myself, devoid of the need to make money or cater to anyone.
