@@ -11,14 +11,8 @@ var store = [{
         "url": "/altar-to-organization/",
         "teaser": null
       },{
-        "title": "Legacy for the hopelessly ambitious",
-        "excerpt":"It’s a little bit macabre that someone my age, 23, is thinking about legacy with much intensity. It should be a topic for the elderly, the older, and those who’ve accomplished something. One should begin thinking about legacy in their donations to colleges, not as they graduate from them. It’s...","categories": [],
-        "tags": [],
-        "url": "/legacy-for-the-hopelessly-ambitious/",
-        "teaser": null
-      },{
         "title": "Blog rules",
-        "excerpt":"This is the set of rules I am making for my own personal blog. I think they serve a useful purpose in preserving and protecting the things I write from my future self, as well as creating guidelines to facilitate creating more. These are in no particular order. All rules...","categories": [],
+        "excerpt":"I think this blog will have 2 main kinds of posts: essays and updates. Essays will follow the rules below, while updates are more casual, basically just Instagram posts. This is the set of rules I am making for my own personal blog. I think they serve a useful purpose...","categories": [],
         "tags": [],
         "url": "/blog-rules/",
         "teaser": null

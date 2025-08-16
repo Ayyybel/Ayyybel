@@ -1,4 +1,6 @@
-This is the set of rules I am making for my own personal blog. I think they serve a useful purpose in preserving and protecting the things I write from my future self, as well as creating guidelines to facilitate creating more. These are in no particular order. All rules should be followed, and if they aren't, tell me.
+I think this blog will have 2 main kinds of posts: essays and updates. Essays will follow the rules below, while updates are more casual, basically just Instagram posts.  
+
+This is the set of rules I am making for my own personal blog. I think they serve a useful purpose in preserving and protecting the things I write from my future self, as well as creating guidelines to facilitate creating more. These are in no particular order, and really only apply to my essays.  
 
 ## Rule 1
 
