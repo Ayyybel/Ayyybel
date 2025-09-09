@@ -16,4 +16,16 @@ var store = [{
         "tags": [],
         "url": "/blog-rules/",
         "teaser": null
+      },{
+        "title": "Adventures",
+        "excerpt":"There are a few different kinds of adventures. I think there are 3. But first, what makes an outing an adventure? I think it has to do with the aspect of a challenge. It’s got to have some kind of goal that you aren’t sure you can achieve. It’s not...","categories": [],
+        "tags": [],
+        "url": "/adventures/",
+        "teaser": null
+      },{
+        "title": "Mourn while it matters",
+        "excerpt":"I think we should always be in mourning. Not for things that have passed, but for the things we have. If we are aware of their eventual passing, and remind ourselves of it occasionally, it makes us appreciate the things and people around us so much more. The most painful...","categories": [],
+        "tags": [],
+        "url": "/mourn-while-it-matters/",
+        "teaser": null
       }]
