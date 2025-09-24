@@ -1,7 +1,7 @@
 ---
 permalink: /favs/
 ---
-A collection of links to places I curate my favorite things
+My favorite stuff all in one place, mostly.
 
 [Letterboxd](https://letterboxd.com/Ayyybel/)
 
@@ -13,7 +13,7 @@ A collection of links to places I curate my favorite things
 
 [are.na](https://www.are.na/ayyybel-t/channels) (WIP)
 
-Websites - Right here!
+## Websites 
 This is a small collection of peoples personal sites that I've drawn inspiration from in the past, or admire greatly!
 - [Derek Sivers](https://sive.rs/), who's site was one of my early introductions to "the indie web."
 - [Jack](https://jackis.online/), a very cool designer/artist guy who's doing a great job creating a small community.
@@ -23,3 +23,7 @@ This is a small collection of peoples personal sites that I've drawn inspiration
 - [mogdogblog](https://www.mogdogblog.com/home), creator of nubbys number factory, and a site I really enjoy the vibe of.
 - [Bill Wurtz](https://billwurtz.com/), maybe the first personal site I ever visited, and a joy to explore.
 - [jvscholz](https://jvscholz.com), a guy with a pretty interesting productivity-focused youtube channel, and a site with lots of depth and useful information.
+
+## Blogs, posts, and misc stuff 
+- **9-23-25** - [Hosting a Website on a Disposable Vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/) - just a really cool project I wish I had the patience or expertise to pull off. 
+- **9-23-25** - [how to live without your phone by samkriss](https://samkriss.substack.com/p/how-to-live-without-your-phone) - I've been slowly making my phone less useful, but am quite scared of the leap it would take to get rid of it fully. Reading about others experiences is always interesting.
