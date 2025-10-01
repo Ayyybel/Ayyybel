@@ -7,4 +7,4 @@ welcome to my site
 feel free to poke around. i hope you enjoy 
 
 <h3> newest art piece</h3> 
-<img src="assets/gallery/watchingfromabove.png"> 
+<img src="assets/posters/watchingfromabove.png"> 

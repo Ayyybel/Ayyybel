@@ -8,5 +8,7 @@ main:
     url: /blog/
   - title: "Favs"
     url: /favs/
-  - title: "Art"
-    url: /art/
+  - title: "3D Models"
+    url: /3d/
+  - title: "Posters"
+    url: "/posters/"
