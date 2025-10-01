@@ -1,3 +1,6 @@
+---
+tag: writing
+--- 
 Your clean clothes are migrating from chair to bed to chair and your life is in shambles.
 You lose your phone, your wallet, and your jewelry. You frantically clean before every unsuccessful date. You've always thought of an organized room as the minimalist, sanitized, color-coordinated ones you see on Pinterest. I have bad news: you and I, along with most, are not minimalist, sanitized people. Our lives are messy, dirty, and full of junk. That won’t change, but what can change is how we interact with our things.
 

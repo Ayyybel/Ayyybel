@@ -1,3 +1,6 @@
+---
+tag: writing
+--- 
 Starting in July 2023, I biked to work five days a week, for about 2 miles each way. That comes out to somewhere around 1000 miles, maybe a bit less accounting for sick days and incidental and occasional (but appreciated) rides from my girlfriend. With a total of two bikes used (the first was stolen) this was absolutely economical and enjoyable.
 
 Granted, my bicycle commute is possibly one of the most idyllic in America. Almost entirely on a designated path along a river, only on a road for the final ~30 yards. This wasn't on accident though. I chose my apartment exclusively because of the proximity and pleasantness of the commute, and likely paid extra for it. That was a non-negotiable part of my housing choice. 

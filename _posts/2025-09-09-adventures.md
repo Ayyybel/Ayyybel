@@ -1,3 +1,6 @@
+---
+tag: writing
+--- 
 There are a few different kinds of adventures. I think there are 3. But first, what makes an outing an adventure? I think it has to do with the aspect of a challenge. It's got to have some kind of goal that you aren't sure you can achieve. It's not an adventure if there's nothing to turn back from. It doesn't necessarily have to be risky, though that's a common challenge. Another kind could be discomfort. It could be wet or cold or hot or humid or otherwise just kinda uncomfortable in some way. That it might make you not succeed at the goal is what makes it an adventure. Now, for the kinds of adventure. 
 
 There are societal adventures. These are adventures in to a part of society or culture that you would never otherwise experience. Going to a city in a new country, spending a weekend in the big city, that kind of thing. The challenge might come from the social anxiety confronted, the risks associated with being in an unfamiliar place, or the embarrassment of interacting with others poorly. 

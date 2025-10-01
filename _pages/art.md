@@ -1,5 +1,6 @@
 ---
 permalink: /art/
+layout: single
 ---
 My posters, art projects, and 3d renders
-{% include gallery.html folder="gallery" %}
+{% include image-gallery.html folder="/assets/gallery" %}

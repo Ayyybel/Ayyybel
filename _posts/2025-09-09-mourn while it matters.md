@@ -1,3 +1,6 @@
+---
+tag: writing
+--- 
 I think we should always be in mourning. Not for things that have passed, but for the things we have. If we are aware of their eventual passing, and remind ourselves of it occasionally, it makes us appreciate the things and people around us so much more. The most painful and regretful passings I've experienced were for the people and things I didn't think to appreciate. 
 
 It also makes it less painful when people pass or things disappear. Not because you've done all the mourning that needs to be done ahead of time, but because you spent more time truly appreciating them. 
