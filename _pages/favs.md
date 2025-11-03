@@ -25,6 +25,7 @@ This is a small collection of peoples personal sites that I've drawn inspiration
 - [jvscholz](https://jvscholz.com), a guy with a pretty interesting productivity-focused youtube channel, and a site with lots of depth and useful information.
 
 ## Blogs, posts, and misc stuff 
+- **11-2-25** - [Numb at Burning Man](https://samkriss.substack.com/p/numb-at-burning-man) - one of my favorite internet writers goes to burning man.
 - **9-23-25** - [Hosting a Website on a Disposable Vape](https://bogdanthegeek.github.io/blog/projects/vapeserver/) - just a really cool project I wish I had the patience or expertise to pull off. 
 - **9-23-25** - [how to live without your phone by samkriss](https://samkriss.substack.com/p/how-to-live-without-your-phone) - I've been slowly making my phone less useful, but am quite scared of the leap it would take to get rid of it fully. Reading about others experiences is always interesting.
 - **9-15-23** - [The Cult of Done](https://www.youtube.com/watch?v=bJQj1uKtnus) - A video about a (manifesto)[https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13] that I've wholly adopted since it was released. The Cult of Done is an amazing idea that I like to apply as much as possible
