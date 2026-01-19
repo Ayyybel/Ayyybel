@@ -4,12 +4,10 @@ permalink: /now/
 
 A page about what I've been doing lately. If you've never seen a now page before, check out [nownownow](https://nownownow.com/about)
 
-###### Last Updated: 11.1.2025
+###### Last Updated: 1.18.2026
 
-I recently moved from Port Townsend to Seattle (Udistrict). It's been amazing so far. I got myself a retail job to pay for rent, and have been going to parties, connecting with friends, and otherwise getting out there.
-My current job is serviceable, but the schedule is inconvenient for having an active social life, and the high hours, while nice for saving money, aren't really conducive to what I'm trying to do here in Seattle.
-I've been spending less time in nature as a result, but am enjoying reading (currently infinite jest), going for walks, and living with friends. 
-I'm currently working on a game with my roommates, and trying to do one major social event per weekend. 
-My loose plan for this next year includes finding a finance or marketing related job that pays better than retail, and creating more art than ever before. 
+I recently moved from Port Townsend to Seattle (Udistrict). It's been amazing so far. I recently quit my retail job at Uniqlo in favor of a hybrid remote job at an accounting firm. I've just started, and am figuring the job out. Also, going on some hikes and playing tennis with a friend I made working at Uniqlo. I've been reading a bunch more books recently also.
+
+I want to figure out some new goals for myself, as I've been very focused on getting onto this career track. I am reluctant to rush it though, and hope they'll present themselves somewhat organically. For now, I'll keep making my posters, seeing friends, and reading.
 
 Further down the line (2028) I am considering starting a masters program, probably an MBA with a focus in finance or economics.
