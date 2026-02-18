@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Blog rules",
-        "excerpt":"I think this blog will have 2 main kinds of posts: essays and updates. Essays will follow the rules below, while updates are more casual, basically just Instagram posts. This is the set of rules I am making for my own personal blog. I think they serve a useful purpose...","categories": [],
+        "excerpt":"I think this blog will have 2 main kinds of posts: essays and updates. Essays will follow the rules below, while updates are more casual, basically just Instagram posts. This is the set of rules I am making for my own personal blog. They serve a useful purpose in preserving...","categories": [],
         "tags": ["writing"],
         "url": "/blog-rules/",
         "teaser": null
