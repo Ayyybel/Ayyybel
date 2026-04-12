@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
+  - title: "Posters"
+    url: "/posters/"
   - title: "Now"
     url: /now/
   - title: "Blog"
@@ -10,5 +10,7 @@ main:
     url: /favs/
   - title: "3D Models"
     url: /3d/
-  - title: "Posters"
-    url: "/posters/"
+  - title: "Sites"
+    url: "/sites/"
+  - title: "About"
+    url: /about/
