@@ -21,6 +21,10 @@
 <lastmod>2026-02-19T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/shelf/</loc>
+<lastmod>2026-05-01T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/3d/</loc>
 </url>
 <url>
@@ -46,5 +50,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/sites/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>

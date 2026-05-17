@@ -28,4 +28,10 @@ var store = [{
         "tags": ["writing"],
         "url": "/adventures/",
         "teaser": null
+      },{
+        "title": "Shelf",
+        "excerpt":"I made a new shelf because I didn’t like any of the ones I saw online. It seems any furniture that looks out of the ordinary is either incredibly expensive, made incredibly cheap, or incredibly ugly. I ended up making something that costed a reasonably amount, appears incredibly cheap, and...","categories": [],
+        "tags": ["project"],
+        "url": "/shelf/",
+        "teaser": null
       }]
