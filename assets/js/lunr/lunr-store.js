@@ -11,26 +11,14 @@ var store = [{
         "url": "/altar-to-organization/",
         "teaser": null
       },{
-        "title": "Blog rules",
-        "excerpt":"I think this blog will have 2 main kinds of posts: essays and updates. Essays will follow the rules below, while updates are more casual, basically just Instagram posts. This is the set of rules I am making for my own personal blog. They serve a useful purpose in preserving...","categories": [],
-        "tags": ["writing"],
-        "url": "/blog-rules/",
-        "teaser": null
-      },{
         "title": "Mourn while it matters",
         "excerpt":"I think we should always be in mourning. Not for things that have passed, but for the things we have. If we are aware of their eventual passing, and remind ourselves of it occasionally, it makes us appreciate the things and people around us so much more. The most painful...","categories": [],
         "tags": ["writing"],
         "url": "/mourn-while-it-matters/",
         "teaser": null
       },{
-        "title": "Adventures",
-        "excerpt":"There are a few different kinds of adventures. I think there are 3. But first, what makes an outing an adventure? I think it has to do with the aspect of a challenge. It’s got to have some kind of goal that you aren’t sure you can achieve. It’s not...","categories": [],
-        "tags": ["writing"],
-        "url": "/adventures/",
-        "teaser": null
-      },{
         "title": "Shelf",
-        "excerpt":"I made a new shelf because I didn’t like any of the ones I saw online. It seems any furniture that looks out of the ordinary is either incredibly expensive, made incredibly cheap, or incredibly ugly. I ended up making something that costed a reasonably amount, appears incredibly cheap, and...","categories": [],
+        "excerpt":"I made a new shelf because I didn’t like any of the ones I saw online. It seems like any furniture that doesn’t look like it’s from ikea is incredibly expensive, made incredibly cheap, or incredibly ugly. I ended up making something reasonably priced, cheap looking, and bearably ugly. I...","categories": [],
         "tags": ["project"],
         "url": "/shelf/",
         "teaser": null
