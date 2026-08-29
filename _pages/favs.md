@@ -17,8 +17,6 @@ My favorite stuff all in one place, mostly.
 
 ## random stuff by date found
 
-- **
-
 - **7.11.2026** - Album - [spleen.social club](https://open.spotify.com/album/2mFSVxcA7iG5GVdrhmN5PB?si=eD-DJ6W7QFCIH_vuqC1pXA) by aupinard - recently released album that's french rap. Excellent vibe to have on in the morning.
 - **5.5.2026** - Artist - [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv?si=1wA6kkiYTa6PfvJWlAUM8w) - Recently came out with a couple banger songs, [thank you i guess](https://open.spotify.com/track/6T1klWs7QMnkPOJGnSpL26?si=f3ab26e2478644c9) and [of everyone in the world(https://open.spotify.com/track/40hiSrEnjRq1JyMeDf0Npo?si=60de791f27574416) that I've had playing constantly. The music videos are also amazing.
 - **4-11-26** - Album - [Don't Take It To Heart](https://open.spotify.com/album/6Si17VJRXepKjeeuTMLEwn?si=3TslwhuHQcybK1y-1zTPZw) by merci, mercy - another album that's been on repeat recently. merci, mercy's first album ever and it's frankly crazy someone can come out swinging this strong.

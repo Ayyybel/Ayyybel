@@ -7,7 +7,7 @@ permalink: /about/
 
 I'm from Port Townsend, Washington, and went to college at WWU in Bellingham. I got my degree in Marketing with a minor in Business Analytics. After getting my degree, I converted my senior year internship into a job, where I became a marketing coordinator at the University of Washington Bothell Dining Program under Aramark. I moved to Woodinville, WA and commuted to work by bike for almost a full year.
 
-After that year had passed, I traveled Europe solo for 3 months, and then returned to my parents to help with the house and apply to jobs. During my time at home, I bartended at a wine bar, learning from the sommeliers and wine makers. On getting sick of the lack of social opportunity in Port Townsend, I moved to Seattle, and am now living here with some friends.
+After that year had passed, I traveled Europe solo for 3 months, and then returned to my parents to help with the house and apply to jobs. During my time at home, I bartended at a wine bar, learning from the sommeliers and wine makers. On getting sick of the lack of social opportunity in Port Townsend, I moved to Seattle, and am now living here with a friend.
 
 ## Values
 
@@ -15,12 +15,13 @@ The two things that are foundational to the way I want to live my life are Learn
 
 ## Hobbies
 
-My current active hobbies are reading, weight lifting, creating digital art, and occasionally juggling.. I also end up playing video games with friends often.
+My current active hobbies are reading, weight lifting, creating digital art, and a variety of casual sports with friends. I also end up playing video games often, though it's not something I want to intentionally dedicate time to.
+
 In the past, I've had many other hobbies such as volleyball, drone racing, mountain biking, bike polo, slacklining, climbing, and snowboarding. For now, these are on the backburner as they require more money, time, or friends to do them with than I currently have.
 
 ## Art
 
-I enjoy creating things in many different forms. The things I've created include this website, my portfolio of 3d art, posters, various video games, some furniture, and a few songs. Most of this you will never see. I enjoy the process of creating and improving. I think of my art and creations as something that will eventually become a second career, but I am in no hurry to get there.
+I enjoy creating things in many different forms. The things I've created include this website, my portfolio of 3d art, posters, various video games, some furniture, and a few songs. Most of this you will never see, as it's not up to my standards. I enjoy the process of creating and improving. I think of my art and creations as something that will eventually become a second career, but I am in no hurry to get there.
 
 ## Work
 
