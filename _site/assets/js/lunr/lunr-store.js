@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Presentation",
-        "excerpt":"I recently made the backgrounds for a panel at the American History Association conference, relating to the history of domestic terrorism and it’s link to back-to-the-land ideas and into the wild.          I used this model of a car for one scene, because modeling cars is really hard.  ","categories": [],
+        "excerpt":"I recently made the backgrounds for a panel at the American History Association conference, relating to Ted Kazynski, Timothy McVeigh, Chris McCandless, and their beliefs in back-to-the-land frontier-style living to escape modernity. I used this model of a car for one scene, because modeling cars is really hard and I...","categories": [],
         "tags": ["project"],
         "url": "/presentation/",
         "teaser": null
