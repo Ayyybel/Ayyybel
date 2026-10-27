@@ -22,4 +22,10 @@ var store = [{
         "tags": ["project"],
         "url": "/shelf/",
         "teaser": null
+      },{
+        "title": "Presentation",
+        "excerpt":"I recently made the backgrounds for a panel at the American History Association conference, relating to the history of domestic terrorism and it’s link to back-to-the-land ideas and into the wild.          I used this model of a car for one scene, because modeling cars is really hard.  ","categories": [],
+        "tags": ["project"],
+        "url": "/presentation/",
+        "teaser": null
       }]
