@@ -28,4 +28,10 @@ var store = [{
         "tags": ["project"],
         "url": "/presentation/",
         "teaser": null
+      },{
+        "title": "Desk",
+        "excerpt":"I was tired of using my crappy amazon desk, so I decided to build one. With my dad’s guidance, I did so using traditional mortise and tennon joinery. I exclusively used hand tools, which I found really enjoyable. It was a lot of fun, very satisfying to have it all...","categories": [],
+        "tags": ["project"],
+        "url": "/desk/",
+        "teaser": null
       }]
