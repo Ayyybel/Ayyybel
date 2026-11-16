@@ -5,11 +5,11 @@ tag: project
 I recently made the backgrounds for a panel at the American History Association conference, relating to Ted Kazynski, Timothy McVeigh, Chris McCandless, and their beliefs in back-to-the-land frontier-style living to escape modernity.
 
 
-![Ted Kaczynski's cabin](/assets/images/slide1.png)
-![Thoreaus cabin](/assets/images/slide2.png)
-![Into the wild bus](/assets/images/slide3.png)
-![Timothy McVeigh's car](/assets/images/slide4.jpg)
-![Prison Cell](/assets/images/slide5.png)
+![Ted Kaczynski's cabin](/assets/images/slides/slide1.png)
+![Thoreaus cabin](/assets/images/slides/slide2.png)
+![Into the wild bus](/assets/images/slides/slide3.png)
+![Timothy McVeigh's car](/assets/images/slides/slide4.jpg)
+![Prison Cell](/assets/images/slides/slide5.png)
 
 
 
