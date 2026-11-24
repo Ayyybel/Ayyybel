@@ -34,4 +34,10 @@ var store = [{
         "tags": ["project"],
         "url": "/desk/",
         "teaser": null
+      },{
+        "title": "Album cover",
+        "excerpt":"I made an album cover for my friends single. I’m pretty proud of how it turned out. I started with a 3d render of a pair of fuzzy dice I made from scratch, and then overlayed a scan of her handwriting and a paper texture. Here’s a link to the...","categories": [],
+        "tags": ["project"],
+        "url": "/album-cover/",
+        "teaser": null
       }]
